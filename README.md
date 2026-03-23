@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:06B6D4&text=Muragam%20Reddappa%20Yadav&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:2563EB,100:06B6D4&text=Muragam%20Reddappa%20Yadav&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Azure Data Engineer | Big Data | Cloud Analytics</h3>
