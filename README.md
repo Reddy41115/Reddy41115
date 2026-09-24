@@ -1,9 +1,11 @@
+<!-- PROFESSIONAL AZURE DATA ENGINEER BANNER -->
+
 <p align="center">
-  <img
-    src="./assets/azure-data-engineer-banner.gif"
-    width="100%"
-    alt="Azure Data Engineer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Azure%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=M%20Reddappa%20Yadav%20%7C%20Data%20Engineering%20%7C%20Azure%20%7C%20PySpark%20%7C%20Databricks&descSize=16&descAlignY=65&descColor=E2E8F0&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Azure+Data+Pipelines;Azure+Data+Factory+%7C+Databricks+%7C+ADLS+Gen2;PySpark+%7C+SQL+%7C+Delta+Lake;Lakehouse+%7C+ETL%2FELT+%7C+Big+Data" />
 </p>
 ---
 
