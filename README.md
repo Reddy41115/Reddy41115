@@ -77,17 +77,6 @@ Transformations between layers run on **Azure Databricks (PySpark and Delta Lake
 
 ---
 
-## Experience
-
-| Period | Company | Role |
-|:--|:--|:--|
-| **Apr 2026 to present** | **EY GDS**, Bangalore | Azure Data Engineer |
-| **Jul 2023 to Apr 2026** | **CGI** | Software Engineer, Azure Data Engineering |
-| **Jul 2022 to Jun 2023** | **CGI** | Associate Software Engineer, Azure Cloud Administration |
-
-**Education:** B.Sc. Computer Science, Sri Venkateshwara University, Tirupati
-
----
 
 ## Currently
 
