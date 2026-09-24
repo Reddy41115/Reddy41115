@@ -1,11 +1,30 @@
-<!-- PROFESSIONAL AZURE DATA ENGINEER BANNER -->
+<!-- ==================== AZURE DATA ENGINEER BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Azure%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=M%20Reddappa%20Yadav%20%7C%20Data%20Engineering%20%7C%20Azure%20%7C%20PySpark%20%7C%20Databricks&descSize=16&descAlignY=65&descColor=E2E8F0&section=header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,45:102A56,75:0078D4,100:00B7C3&text=AZURE%20DATA%20ENGINEER&fontSize=46&fontAlignY=45&fontColor=FFFFFF&font=Montserrat&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Azure+Data+Pipelines;Azure+Data+Factory+%7C+Databricks+%7C+ADLS+Gen2;PySpark+%7C+SQL+%7C+Delta+Lake;Lakehouse+%7C+ETL%2FELT+%7C+Big+Data" />
+  <b>DATA ENGINEERING • CLOUD • BIG DATA • ANALYTICS</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-F8991D?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=deltalake&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Designing+Scalable+Cloud+Data+Platforms;Building+Reliable+ETL%2FELT+Pipelines;Azure+Data+Factory+%7C+Databricks+%7C+ADLS+Gen2;PySpark+%7C+SQL+%7C+Delta+Lake+%7C+Synapse" />
+</p>
+
+<p align="center">
+  <sub>⚡ Transforming data into scalable cloud solutions</sub>
 </p>
 ---
 
