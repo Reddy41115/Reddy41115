@@ -1,174 +1,181 @@
-<!-- ============================================================ -->
-<!--              M REDDAPPA YADAV | GITHUB PROFILE              -->
-<!-- ============================================================ -->
+<!-- ========================================================= -->
+<!--                 M REDDAPPA YADAV                         -->
+<!--              AZURE DATA ENGINEER                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0B1F3A,70:0078D4,100:00B7C3&text=AZURE%20DATA%20ENGINEER&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=M%20Reddappa%20Yadav%20%7C%20Cloud%20Data%20Engineering%20%7C%20Big%20Data%20%7C%20AI&descSize=17&descAlignY=64&descColor=E2E8F0&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:082F49,65:0369A1,85:0284C7,100:06B6D4&text=AZURE%20DATA%20ENGINEER&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=M%20REDDAPPA%20YADAV&descSize=21&descAlignY=61&descColor=E0F2FE&section=header"/>
+
+<br>
+
+<h2>☁️ Data Engineering • Big Data • Cloud • AI</h2>
+
+<p>
+Building scalable data platforms and modern cloud data solutions on Microsoft Azure.
+</p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/mreddappa">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:reddaiah816@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+Scalable+Azure+Data+Platforms;Designing+Reliable+ETL%2FELT+Pipelines;Azure+Data+Factory+%7C+Databricks+%7C+ADLS+Gen2;PySpark+%7C+SQL+%7C+Delta+Lake+%7C+Synapse;Exploring+AI+%26+Generative+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=4%2B+Years+of+Azure+Data+Engineering;Designing+Scalable+ETL%2FELT+Pipelines;Building+Lakehouse+Data+Platforms;PySpark+%7C+Databricks+%7C+ADF+%7C+ADLS+Gen2;Exploring+Generative+AI+%26+Agentic+Systems"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/4%2B%20Years-Experience-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-Data%20Engineering-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Big%20Data-PySpark-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20GenAI-Additional%20Skill-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/4%2B%20YEARS-EXPERIENCE-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MICROSOFT-AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA-ENGINEERING-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-GENAI-6D28D9?style=for-the-badge"/>
 
 </div>
 
----
-
-# 👋 About Me
-
-**Azure Data Engineer** with **4+ years of experience** building scalable cloud data solutions, ETL/ELT pipelines, data integration workflows and analytics platforms.
-
-My primary expertise is in the **Microsoft Azure Data Engineering ecosystem**, with a focus on building reliable and scalable data pipelines.
-
-### ☁️ Azure Data Engineering
-
-- Azure Data Factory
-- Azure Databricks
-- ADLS Gen2
-- Azure Synapse Analytics
-- Delta Lake
-- PySpark & Apache Spark
-- SQL & Python
-- ETL / ELT
-- Data Integration
-- Data Migration
-- Incremental Data Processing
-- Data Validation & Reconciliation
-- Data Cleansing & Deduplication
-- Lakehouse Architecture
-- Medallion Architecture
-- Dimensional Modeling
-- SCD Type 1 & Type 2
-- Star Schema
-
-### 🤖 AI / Generative AI
-
-Developing hands-on capabilities in **AI and Generative AI**, with a focus on practical applications around data and enterprise workflows.
-
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Embeddings
-- Vector Search
-- AI Agents
-- Agentic Workflows
-- LLM API Integration
-- Python AI Applications
+<br>
 
 ---
 
-# 🧠 Technology Stack
+# 👋 Hello, I'm Reddappa
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Azure Data Engineer
+
+I specialize in designing and building **cloud-scale data engineering solutions** using the Microsoft Azure ecosystem.
+
+My work focuses on transforming raw data into reliable, analytics-ready datasets through scalable ingestion, transformation, validation and orchestration pipelines.
+
+**Primary focus**
+
+- ☁️ Azure Data Engineering
+- ⚡ Distributed Data Processing
+- 🏗️ Lakehouse Architecture
+- 🔄 ETL / ELT Pipelines
+- 📊 Data Integration & Analytics
+- 🤖 Generative AI & Agentic AI
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GENAI-6D28D9?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Engineering Stack
 
 <div align="center">
 
-### ☁️ Azure & Cloud
+### ☁️ CLOUD DATA PLATFORM
 
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<br><br>
-
-### ⚡ Data Engineering & Big Data
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=deltalake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=deltalake&logoColor=white"/>
 
 <br><br>
 
-### 🤖 AI & Generative AI
+### ⚡ DATA & PROGRAMMING
 
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <br><br>
 
-### 🛠️ Engineering & Tools
+### 🧠 DATA ARCHITECTURE
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lakehouse-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medallion_Architecture-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Incremental_Loads-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Quality-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lakehouse-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Medallion_Architecture-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dimensional_Modeling-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/SCD_Type_1%2F2-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Quality-0F172A?style=flat-square"/>
 
 </div>
 
 ---
 
-# 🏗️ Data Engineering Architecture
+# 🏗️ Azure Data Platform
 
 <div align="center">
 
 ```text
-                         AZURE DATA PLATFORM
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │  Source Systems │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │ Azure Data      │
-                         │ Factory         │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    ADLS Gen2    │
-                         │   BRONZE LAYER  │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   Databricks    │
-                         │     PySpark     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │  SILVER LAYER   │
-                         │ Clean / Validate│
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   GOLD LAYER    │
-                         │ Curated / BI    │
-                         └────────┬────────┘
-                                  │
-                         ┌────────┴────────┐
-                         ▼                 ▼
-                    Synapse / SQL       Power BI
+                         ┌──────────────────────┐
+                         │    SOURCE SYSTEMS    │
+                         │                      │
+                         │  SQL • Files • APIs  │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                       ┌────────────────────────┐
+                       │    AZURE DATA FACTORY  │
+                       │                        │
+                       │   INGESTION • CONTROL  │
+                       │   ORCHESTRATION        │
+                       └───────────┬────────────┘
+                                   │
+                                   ▼
+                ╔══════════════════════════════════════╗
+                ║              ADLS GEN2              ║
+                ║                                    ║
+                ║             🟤 BRONZE              ║
+                ║              RAW DATA              ║
+                ╚══════════════════╤═════════════════╝
+                                   │
+                                   ▼
+                       ┌────────────────────────┐
+                       │      DATABRICKS        │
+                       │                        │
+                       │  PYSPARK • SPARK SQL   │
+                       │  TRANSFORM • VALIDATE  │
+                       └───────────┬────────────┘
+                                   │
+                                   ▼
+                ╔══════════════════════════════════════╗
+                ║              SILVER                 ║
+                ║                                    ║
+                ║  CLEAN • VALIDATED • DEDUPLICATED  ║
+                ╚══════════════════╤═════════════════╝
+                                   │
+                                   ▼
+                ╔══════════════════════════════════════╗
+                ║               GOLD                  ║
+                ║                                    ║
+                ║     CURATED • AGGREGATED • BI      ║
+                ╚══════════════════╤═════════════════╝
+                                   │
+                         ┌─────────┴──────────┐
+                         ▼                    ▼
+                  ┌─────────────┐      ┌─────────────┐
+                  │   SYNAPSE   │      │  POWER BI   │
+                  │  ANALYTICS  │      │  INSIGHTS   │
+                  └─────────────┘      └─────────────┘
