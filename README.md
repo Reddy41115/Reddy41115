@@ -14,8 +14,6 @@
 <tr>
 <td width="230" align="center" valign="top">
 
-<img src="https://images.weserv.nl/?url=github.com/YOUR_USERNAME.png&w=240&h=240&fit=cover&mask=circle" width="180" alt="M Reddappa Yadav"/>
-
 <br/>
 
 **M Reddappa Yadav**<br/>
