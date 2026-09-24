@@ -1,34 +1,58 @@
-<!-- ============================================================
-     M REDDAPPA YADAV
-     PREMIUM GITHUB PROFILE
-============================================================ -->
+<!-- ===================== AZURE DATA ENGINEER BANNER ===================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:082F49,50:0078D4,75:00A8E8,100:7C3AED&text=AZURE%20DATA%20ENGINEER&fontSize=46&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=M%20Reddappa%20Yadav%20%7C%204%2B%20Years%20Experience&descSize=18&descAlignY=48&descColor=E0F2FE&section=header"
+    width="100%"
+  />
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:071A2F,50:0A3D62,75:0078D4,100:00D4FF&text=M%20REDDAPPA%20YADAV&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AZURE%20DATA%20ENGINEER&descSize=22&descAlignY=58&descColor=67E8F9&section=header"/>
+<!-- DATA ENGINEERING STACK -->
+
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&height=40&lines=Cloud+Data+Engineering+%7C+Lakehouse+%7C+Big+Data;4%2B+Years+Building+Scalable+Azure+Data+Solutions;ADF+%E2%80%A2+Databricks+%E2%80%A2+ADLS+Gen2+%E2%80%A2+PySpark+%E2%80%A2+SQL;Exploring+Generative+AI+%7C+RAG+%7C+AI+Agents"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/mreddappa">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- CERTIFICATIONS -->
 
-<a href="mailto:reddaiah816@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<sub><b>MICROSOFT CERTIFIED</b></sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/4%2B%20YEARS-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/AZURE-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA%20ENGINEERING-0369A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/GENAI-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-00A8E8?style=flat-square&logo=microsoftazure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white"/>
+
+<br><br>
+
+<!-- ANIMATED SPECIALIZATION LINE -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=850&height=30&lines=Cloud+Data+Engineering+%E2%80%A2+Lakehouse+%E2%80%A2+Big+Data+%E2%80%A2+Generative+AI"
+/>
 
 </div>
+
 
 ---
 
