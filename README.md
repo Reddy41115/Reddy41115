@@ -1,10 +1,18 @@
-<!-- BANNER -->
+<!-- ANIMATED AZURE DATA ENGINEER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:2563EB,100:06B6D4&text=M%20Reddappa%20Yadav&fontSize=36&fontColor=ffffff&animation=twinkling&section=header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Azure%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=twinkling&color=0:020B24,35:062B5C,65:0078D4,100:00B7C3"
+    width="100%"
+  />
 </p>
 
-<h3 align="center">Azure Data Engineer | Big Data | Cloud Analytics</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=1000&color=00B7C3&center=true&vCenter=true&width=600&lines=Azure+Cloud+%7C+Big+Data+%7C+Cloud+Analytics;ADF+%7C+Databricks+%7C+ADLS+Gen2+%7C+Synapse;Building+Scalable+Data+Solutions"
+    alt="Azure Data Engineer"
+  />
+</p>
 
 ---
 
