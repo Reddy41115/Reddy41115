@@ -7,27 +7,6 @@
   />
 </p>
 
-<p align="center">
-  <b>DATA ENGINEERING • CLOUD • BIG DATA • ANALYTICS</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-F8991D?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=deltalake&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Designing+Scalable+Cloud+Data+Platforms;Building+Reliable+ETL%2FELT+Pipelines;Azure+Data+Factory+%7C+Databricks+%7C+ADLS+Gen2;PySpark+%7C+SQL+%7C+Delta+Lake+%7C+Synapse" />
-</p>
-
-<p align="center">
-  <sub>⚡ Transforming data into scalable cloud solutions</sub>
-</p>
----
-
 
 
 <table>
