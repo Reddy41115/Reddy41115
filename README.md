@@ -28,38 +28,57 @@
 </p>
 ---
 
+
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 👨‍💻 Professional Summary
 
-Azure Data Engineer focused on building **scalable data platforms and high-performance ETL pipelines** across modern cloud environments.
+I'm **M Reddappa Yadav**, an **Azure Data Engineer with 4+ years of experience** building cloud-based data solutions.
 
-Experienced with **Azure Data Factory, Databricks, Spark, Delta Lake, Synapse Analytics, ADLS, SQL, Python, and AWS services (S3, EC2)** to design reliable, optimized, and production-ready data solutions.
+My primary focus is designing reliable data platforms that move data from **source → lake → transformation → analytics**.
 
----
+I work across the Azure data ecosystem with a focus on:
 
-## ⚡ Tech Stack
+`Data Engineering` · `Lakehouse` · `ETL/ELT` · `Distributed Processing`
 
-<p align="center">
+I'm also expanding into **Generative AI and Agentic AI**, particularly where AI can work with enterprise data.
 
-<img src="https://skillicons.dev/icons?i=azure,aws,python,git,linux"/>
+</td>
 
-</p>
+<td width="40%" valign="top">
 
-<p align="center">
+### ⚡ Profile
 
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_Databricks-EA3E23?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+**ROLE**
 
-</p>
+`Azure Data Engineer`
 
----
+**EXPERIENCE**
 
----
+`4+ Years`
+
+**PRIMARY CLOUD**
+
+`Microsoft Azure`
+
+**DATA**
+
+`Big Data / Lakehouse`
+
+**PROCESSING**
+
+`PySpark / Spark`
+
+**AI**
+
+`GenAI / RAG / Agents`
+
+</td>
+</tr>
+</table>
 
 ## 🏆 Microsoft Certifications
 
