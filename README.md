@@ -1,87 +1,92 @@
-<!-- ========================================================= -->
-<!--                 M REDDAPPA YADAV                         -->
-<!--              AZURE DATA ENGINEER                         -->
-<!-- ========================================================= -->
+<!-- ============================================================
+     M REDDAPPA YADAV
+     PREMIUM GITHUB PROFILE
+============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:082F49,65:0369A1,85:0284C7,100:06B6D4&text=AZURE%20DATA%20ENGINEER&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=M%20REDDAPPA%20YADAV&descSize=21&descAlignY=61&descColor=E0F2FE&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:071A2F,50:0A3D62,75:0078D4,100:00D4FF&text=M%20REDDAPPA%20YADAV&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AZURE%20DATA%20ENGINEER&descSize=22&descAlignY=58&descColor=67E8F9&section=header"/>
 
 <br>
 
-<h2>☁️ Data Engineering • Big Data • Cloud • AI</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&height=40&lines=Cloud+Data+Engineering+%7C+Lakehouse+%7C+Big+Data;4%2B+Years+Building+Scalable+Azure+Data+Solutions;ADF+%E2%80%A2+Databricks+%E2%80%A2+ADLS+Gen2+%E2%80%A2+PySpark+%E2%80%A2+SQL;Exploring+Generative+AI+%7C+RAG+%7C+AI+Agents"/>
 
-<p>
-Building scalable data platforms and modern cloud data solutions on Microsoft Azure.
-</p>
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/mreddappa">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:reddaiah816@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=4%2B+Years+of+Azure+Data+Engineering;Designing+Scalable+ETL%2FELT+Pipelines;Building+Lakehouse+Data+Platforms;PySpark+%7C+Databricks+%7C+ADF+%7C+ADLS+Gen2;Exploring+Generative+AI+%26+Agentic+Systems"/>
+<img src="https://img.shields.io/badge/4%2B%20YEARS-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/AZURE-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA%20ENGINEERING-0369A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/GENAI-6D28D9?style=flat-square"/>
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/4%2B%20YEARS-EXPERIENCE-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MICROSOFT-AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA-ENGINEERING-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-GENAI-6D28D9?style=for-the-badge"/>
+---
+
+<div align="center">
+
+# Building Data Platforms That Scale.
+
+**Azure Data Engineering · Cloud · Big Data · AI**
 
 </div>
 
 <br>
 
----
-
-# 👋 Hello, I'm Reddappa
-
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-### Azure Data Engineer
+### 👋 About
 
-I specialize in designing and building **cloud-scale data engineering solutions** using the Microsoft Azure ecosystem.
+I'm **M Reddappa Yadav**, an **Azure Data Engineer with 4+ years of experience** building cloud-based data solutions.
 
-My work focuses on transforming raw data into reliable, analytics-ready datasets through scalable ingestion, transformation, validation and orchestration pipelines.
+My primary focus is designing reliable data platforms that move data from **source → lake → transformation → analytics**.
 
-**Primary focus**
+I work across the Azure data ecosystem with a focus on:
 
-- ☁️ Azure Data Engineering
-- ⚡ Distributed Data Processing
-- 🏗️ Lakehouse Architecture
-- 🔄 ETL / ELT Pipelines
-- 📊 Data Integration & Analytics
-- 🤖 Generative AI & Agentic AI
+`Data Engineering` · `Lakehouse` · `ETL/ELT` · `Distributed Processing`
+
+I'm also expanding into **Generative AI and Agentic AI**, particularly where AI can work with enterprise data.
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="40%" valign="top">
 
-<img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+### ⚡ Profile
 
-<br><br>
+**ROLE**
 
-<img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+`Azure Data Engineer`
 
-<br><br>
+**EXPERIENCE**
 
-<img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+`4+ Years`
 
-<br><br>
+**PRIMARY CLOUD**
 
-<img src="https://img.shields.io/badge/GENAI-6D28D9?style=for-the-badge"/>
+`Microsoft Azure`
+
+**DATA**
+
+`Big Data / Lakehouse`
+
+**PROCESSING**
+
+`PySpark / Spark`
+
+**AI**
+
+`GenAI / RAG / Agents`
 
 </td>
 </tr>
@@ -89,93 +94,28 @@ My work focuses on transforming raw data into reliable, analytics-ready datasets
 
 ---
 
-# ⚙️ Engineering Stack
-
-<div align="center">
-
-### ☁️ CLOUD DATA PLATFORM
-
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=deltalake&logoColor=white"/>
-
-<br><br>
-
-### ⚡ DATA & PROGRAMMING
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<br><br>
-
-### 🧠 DATA ARCHITECTURE
-
-<img src="https://img.shields.io/badge/Lakehouse-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Medallion_Architecture-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dimensional_Modeling-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/SCD_Type_1%2F2-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Quality-0F172A?style=flat-square"/>
-
-</div>
-
----
-
-# 🏗️ Azure Data Platform
+# ☁️ Azure Data Engineering
 
 <div align="center">
 
 ```text
-                         ┌──────────────────────┐
-                         │    SOURCE SYSTEMS    │
-                         │                      │
-                         │  SQL • Files • APIs  │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                       ┌────────────────────────┐
-                       │    AZURE DATA FACTORY  │
-                       │                        │
-                       │   INGESTION • CONTROL  │
-                       │   ORCHESTRATION        │
-                       └───────────┬────────────┘
-                                   │
-                                   ▼
-                ╔══════════════════════════════════════╗
-                ║              ADLS GEN2              ║
-                ║                                    ║
-                ║             🟤 BRONZE              ║
-                ║              RAW DATA              ║
-                ╚══════════════════╤═════════════════╝
-                                   │
-                                   ▼
-                       ┌────────────────────────┐
-                       │      DATABRICKS        │
-                       │                        │
-                       │  PYSPARK • SPARK SQL   │
-                       │  TRANSFORM • VALIDATE  │
-                       └───────────┬────────────┘
-                                   │
-                                   ▼
-                ╔══════════════════════════════════════╗
-                ║              SILVER                 ║
-                ║                                    ║
-                ║  CLEAN • VALIDATED • DEDUPLICATED  ║
-                ╚══════════════════╤═════════════════╝
-                                   │
-                                   ▼
-                ╔══════════════════════════════════════╗
-                ║               GOLD                  ║
-                ║                                    ║
-                ║     CURATED • AGGREGATED • BI      ║
-                ╚══════════════════╤═════════════════╝
-                                   │
-                         ┌─────────┴──────────┐
-                         ▼                    ▼
-                  ┌─────────────┐      ┌─────────────┐
-                  │   SYNAPSE   │      │  POWER BI   │
-                  │  ANALYTICS  │      │  INSIGHTS   │
-                  └─────────────┘      └─────────────┘
+                         DATA ENGINEERING
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+        INGESTION          PROCESSING          STORAGE
+             │                  │                  │
+        Azure ADF          Databricks          ADLS Gen2
+             │               PySpark               │
+             │             Spark SQL               │
+             └──────────────────┼─────────────────┘
+                                │
+                                ▼
+                         DELTA LAKE
+                                │
+                                ▼
+                         DATA WAREHOUSE
+                                │
+                                ▼
+                    SYNAPSE / ANALYTICS
